@@ -10,33 +10,6 @@ This repository documents an end-to-end investigation in **Microsoft Defender fo
 - Window: November 20–24, 2025
 - Tables: `DeviceLogonEvents`, `DeviceProcessEvents`, `DeviceFileEvents`, `DeviceRegistryEvents`
 
-## Repository Structure
-```text
-Port-of-Entry-Part-2-Cargo-Hold/
-├── README.md
-└── images/
-    ├── fig01.png
-    ├── fig02.png
-    ├── fig03.png
-    ├── fig04.png
-    ├── fig05.png
-    ├── fig06.png
-    ├── fig07.png
-    ├── fig08.png
-    ├── fig09.png
-    ├── fig10.png
-    ├── fig11.png
-    ├── fig12.png
-    ├── fig13.png
-    ├── fig14.png
-    ├── fig15.png
-    ├── fig16.png
-    ├── fig17.png
-    ├── fig18.png
-    ├── fig19.png
-    └── fig20.png
-```
-
 # Investigation
 
 ## 🚩 Flag 1 – Return Connection Source
